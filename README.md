@@ -2,7 +2,7 @@
 
 This project is a Git mirror repo to store sources from the following repo:
 
-``
+``` 
 git clone https://git.code.sf.net/p/lejos/ev3/code lejos-ev3-code
 ```
 
