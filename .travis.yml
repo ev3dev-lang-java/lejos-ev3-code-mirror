@@ -3,11 +3,6 @@ jdk:
 - openjdk10
 before_install:
 - chmod +x build.sh
-deploy:
-  provider: script
-  script: bash build.sh
-  on:
-    branch: master
 notifications:
   email:
     on_success: always
